@@ -30,3 +30,7 @@ Dans les comptes clients.
 *	Spring 8 : L’administrateur bloque/débloque compte agent. 
 *	Sprint 9 : Authentification d’un agent dans la plateforme.
 *	Spring 10 : L’agent change son mot de passe.
+
+# Diagramme de classe du sprint1
+
+![diagramme de classe](DC_Sprint1.png)
