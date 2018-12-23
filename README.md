@@ -17,7 +17,7 @@ Dans les comptes clients.
 9.	Après activation seulement qu’ils pourront accéder à l’application via un login et mot de passe crypté.
 10.	Les agents peuvent modifier leurs mots de passes à tout moment.
 
-#Sprints (Backend)
+# Sprints (Backend)
 
 *	Sprint 0 : Préparation environnement de développement
 *	Sprint 1 : Ouverture de compte bancaire d’un client
