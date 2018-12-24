@@ -12,6 +12,7 @@ public abstract class Compte {
     @Id
     protected String numero;
     protected float solde;
+    @JsonFormat(pattern = "yyyy-MM-dd")
     protected Date dateOuverture;
     protected boolean ouvert;
 

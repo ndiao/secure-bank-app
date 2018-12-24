@@ -31,6 +31,8 @@ Dans les comptes clients.
 *	Sprint 9 : Authentification d’un agent dans la plateforme.
 *	Spring 10 : L’agent change son mot de passe.
 
-# Diagramme de classe du sprint1
+# Modélisation du sprint1
+
+- Diagramme de classe
 
 ![diagramme de classe](DC_Sprint1.png)

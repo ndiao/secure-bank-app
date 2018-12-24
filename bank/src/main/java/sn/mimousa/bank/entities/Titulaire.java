@@ -11,7 +11,9 @@ public class Titulaire implements Serializable {
     private Long id;
     private String prenom;
     private String nom;
+    @Column(updatable = true, unique = true)
     private String email;
+    @Column(updatable = true, unique = true)
     private String tel;
     private String adresse;
     @OneToMany(mappedBy = "client")
